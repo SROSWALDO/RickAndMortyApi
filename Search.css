@@ -1,0 +1,30 @@
+.search button{
+    color: white;
+    background-color: #2E5A1D;
+    padding: 10px;
+    border: 2px solid #C0DF40;
+    margin: 0 5px;
+}
+
+.search input{
+    padding: 15px;
+    border-radius: 15px;
+    margin: 0 10px;
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(0, 0, 0, 0.812);
+    color: #C0DF40;
+    border: none;
+    
+}
+
+.search input:active{
+    border-color: #C0DF40;
+}
+
+.search{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+    
+}
